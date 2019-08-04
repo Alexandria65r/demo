@@ -4,6 +4,48 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+ "myr":[
+  {
+        "id": "1",
+        "title": "Audi Rs7"
+    },
+    {
+        "id": "2",
+        "title": "Nissan Gt-r"
+    },
+    {
+        "id": "3",
+        "title": "Mercedes Benz E63 AMG"
+    },
+    {
+        "id": "4",
+        "title": "I love you Gloria"
+    },
+    {
+        "id": "5",
+        "title": "What comes Easy wont last long en what last long won't come Easy"
+    },
+    {
+        "id": "6",
+        "title": "Never Give up"
+    },
+    {
+        "id": "7",
+        "title": "There are alot of thing u can achieve in this world"
+    },
+    {
+        "id": "8",
+        "title": "Believe in yourself"
+    },
+    {
+        "id": "9",
+        "title": "Ideas they don't come out fully formed, they only become clear as we work on them we just have to get started"
+    },
+    {
+        "id": "10",
+        "title": "Lol"
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
